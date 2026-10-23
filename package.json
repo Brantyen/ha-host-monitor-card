@@ -1,0 +1,8 @@
+{
+  "name": "ha-host-monitor-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Home Assistant host monitoring dashboard card",
+  "license": "MIT",
+  "scripts": { "test": "node --test tests/card.test.cjs", "check": "node --check dist/ha-host-monitor-card.js" }
+}
